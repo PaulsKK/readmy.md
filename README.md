@@ -1,1 +1,1 @@
-# readmy.md
+print("hello world")
